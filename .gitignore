@@ -1,0 +1,19 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore binary files
+*.jar
+*.class
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories (if applicable)
+build/
+out/
